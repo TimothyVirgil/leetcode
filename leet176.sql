@@ -1,5 +1,5 @@
 /*
-LeetCode #176: Combine Two Tables
+LeetCode #176: Second Highest Salary
 Code by Timothy Payne Jr.
 Started on: July 20, 2021
 Finished on: July 20, 2021
